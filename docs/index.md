@@ -8,7 +8,7 @@ Os treinamentos a seguir apresentam os fundamentos para a configuração inicial
 
 - [**Treinamento inicial e pedagógico** :octicons-link-external-16:](#) para aprender as configurações e funcionalidades do dia a dia.
 - [**Treinamento financeiro** :octicons-link-external-16:](#) para aprender a configurar e realizar a gestão financeira da sua instituição.
-- [**Treinamento EAD** :octicons-link-external-16:](/EAD/) para uma visão geral das funcionalidades de cursos e turmas do ambiente EAD.
+- [**Treinamento EAD** :octicons-link-external-16:](EAD) para uma visão geral das funcionalidades de cursos e turmas do ambiente EAD.
 
 </div>
 
@@ -32,7 +32,7 @@ As _coleções_ a seguir agrupam artigos detalhados para a configuração e uso 
 - Docs & Impressões
 - Disciplinas
 - Cursos
-- [EAD](/EAD/)
+- [EAD](EAD)
 - Fórum
 - Matriz curricular
 - Sistema avaliativo
