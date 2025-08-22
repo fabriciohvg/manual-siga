@@ -1,5 +1,5 @@
 site_name: Manual / Sistema SIGA
-site_url: https://docs.sistemasiga.net
+site_url: https://docs.sistemasiga.net/manual-siga/
 plugins:
   - search
   - glightbox

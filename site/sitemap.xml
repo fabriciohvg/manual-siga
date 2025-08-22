@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://docs.sistemasiga.net/</loc>
+         <loc>https://docs.sistemasiga.net/manual-siga/</loc>
          <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://docs.sistemasiga.net/Administra%C3%A7%C3%A3o/</loc>
+         <loc>https://docs.sistemasiga.net/manual-siga/Administra%C3%A7%C3%A3o/</loc>
          <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://docs.sistemasiga.net/Alunos/</loc>
+         <loc>https://docs.sistemasiga.net/manual-siga/Alunos/</loc>
          <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://docs.sistemasiga.net/EAD/</loc>
+         <loc>https://docs.sistemasiga.net/manual-siga/EAD/</loc>
          <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://docs.sistemasiga.net/EAD/Configura%C3%A7%C3%B5es/documentos-obrigatorios-ead/</loc>
+         <loc>https://docs.sistemasiga.net/manual-siga/EAD/Configura%C3%A7%C3%B5es/documentos-obrigatorios-ead/</loc>
          <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://docs.sistemasiga.net/EAD/Configura%C3%A7%C3%B5es/notificacoes-sistema-ead/</loc>
+         <loc>https://docs.sistemasiga.net/manual-siga/EAD/Configura%C3%A7%C3%B5es/notificacoes-sistema-ead/</loc>
          <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://docs.sistemasiga.net/EAD/Configura%C3%A7%C3%B5es/permissao-acesso-ead/</loc>
+         <loc>https://docs.sistemasiga.net/manual-siga/EAD/Configura%C3%A7%C3%B5es/permissao-acesso-ead/</loc>
          <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://docs.sistemasiga.net/EAD/Configura%C3%A7%C3%B5es/prazo-acesso-bloqueio-certificado-diploma-ead/</loc>
+         <loc>https://docs.sistemasiga.net/manual-siga/EAD/Configura%C3%A7%C3%B5es/prazo-acesso-bloqueio-certificado-diploma-ead/</loc>
          <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://docs.sistemasiga.net/Financeiro/</loc>
+         <loc>https://docs.sistemasiga.net/manual-siga/Financeiro/</loc>
          <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://docs.sistemasiga.net/Pedag%C3%B3gico/</loc>
+         <loc>https://docs.sistemasiga.net/manual-siga/Pedag%C3%B3gico/</loc>
          <lastmod>2025-08-22</lastmod>
     </url>
     <url>
-         <loc>https://docs.sistemasiga.net/Professores/</loc>
+         <loc>https://docs.sistemasiga.net/manual-siga/Professores/</loc>
          <lastmod>2025-08-22</lastmod>
     </url>
 </urlset>
