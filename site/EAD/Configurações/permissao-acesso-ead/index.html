@@ -17,7 +17,7 @@
         <link rel="next" href="../prazo-acesso-bloqueio-certificado-diploma-ead/">
       
       
-      <link rel="icon" href="../../../assets/images/favicon.png">
+      <link rel="icon" href="../../../assets/favicon-siga.ico">
       <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.17">
     
     
@@ -55,7 +55,16 @@
     
     
     
-  </head>
+   <link href="../../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+    html.glightbox-open { overflow: initial; height: 100%; }
+    .gslide-title { margin-top: 0px; user-select: text; }
+    .gslide-desc { color: #666; user-select: text; }
+    .gslide-image img { background: white; }
+    .gscrollbar-fixer { padding-right: 15px; }
+    .gdesc-inner { font-size: 0.75rem; }
+    body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+    body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+    body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}</style> <script src="../../../assets/javascripts/glightbox.min.js"></script></head>
   
   
     
@@ -1040,7 +1049,7 @@
 <h1 id="permissoes-de-acesso">Permissões de acesso</h1>
 <details class="abstract">
 <summary>Clique aqui e assista o vídeo</summary>
-<p><iframe allow="autoplay; fullscreen" allowfullscreen="" frameborder="0" height="300" src="https://player.vimeo.com/video/663452654?h=8243f85cd8" width="640"></iframe></p>
+<p><iframe loading="lazy" allow="autoplay; fullscreen" allowfullscreen="" frameborder="0" height="300" src="https://player.vimeo.com/video/663486376?h=77b7592df6" width="640"></iframe></p>
 </details>
 <h2 id="permissoes-para-o-modulo-ead"><strong>Permissões para o Módulo EAD</strong></h2>
 <p>Este documento detalha o procedimento para configurar as permissões de acesso dos colaboradores às funcionalidades de Ensino a Distância (EAD) no sistema SIGA. Uma gestão adequada de permissões é fundamental para garantir a segurança e a correta operação do módulo.</p>
@@ -1171,5 +1180,7 @@
       <script src="../../../assets/javascripts/bundle.92b07e13.min.js"></script>
       
     
-  </body>
+  <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(() => { lightbox.reload() });
+</script></body>
 </html>

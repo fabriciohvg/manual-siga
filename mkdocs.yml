@@ -2,11 +2,13 @@ site_name: Manual / Sistema SIGA
 site_url: https://docs.sistemasiga.net
 plugins:
   - search
+  - glightbox
 markdown_extensions:
   - attr_list
   - md_in_html
   - admonition
   - pymdownx.details
+  - pymdownx.blocks.caption
   - pymdownx.superfences
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
@@ -14,6 +16,7 @@ markdown_extensions:
 theme:
   name: material
   language: pt-BR
+  favicon: assets/favicon-siga.ico
   palette:
     # Palette toggle for light mode
     - scheme: default

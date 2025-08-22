@@ -2,7 +2,7 @@
 
 ??? abstract "Clique aqui e assista o vídeo"
 
-    <iframe allow="autoplay; fullscreen" allowfullscreen="" frameborder="0" height="300" src="https://player.vimeo.com/video/663452654?h=8243f85cd8" width="640"></iframe>
+    <iframe loading="lazy" allow="autoplay; fullscreen" allowfullscreen="" frameborder="0" height="300" src="https://player.vimeo.com/video/663456662?h=b623d06dd0" width="640"></iframe>
 
 ## **Configuração Estrutural de um Curso EAD**
 

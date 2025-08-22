@@ -2,7 +2,7 @@
 
 ??? abstract "Clique aqui e assista o vídeo"
 
-    <iframe allow="autoplay; fullscreen" allowfullscreen="" frameborder="0" height="300" src="https://player.vimeo.com/video/663452654?h=8243f85cd8" width="640"></iframe>
+    <iframe loading="lazy" allow="autoplay; fullscreen" allowfullscreen="" frameborder="0" height="300" src="https://player.vimeo.com/video/663456716?h=ec32df1ec3" width="640"></iframe>
 
 ## **Configurando Notificações por E-mail para Conclusão de Curso EAD**
 
@@ -52,6 +52,24 @@ Além da notificação automática, é possível gerar relatórios de alunos que
 4.  O sistema listará todos os alunos que foram aprovados no curso dentro do período especificado.
 
 Este método é útil para auditorias e para gerar listas consolidadas de concluintes (mensais, semanais, etc.).
+
+## 4. Outras configurações
+
+Também é possível configurar um texto personalizado que será enviado ao aluno, conforme ilustrado na imagem abaixo.
+
+!!! quote ""
+
+    ![](http://manual.sistemasiga.net/wp-content/uploads/2020/07/4-29-01-2021-21_01_54-ESCOLA-EDUCAR-_-SIGA-SISTEMA-DE-GESTÃO-ACADÊMICA.png)
+
+É possível configurar o envio automático de notificações por e-mail para tutores, coordenadores e alunos nos seguintes casos:
+
+- Alteração na situação de um anexo (em aulas avaliadas por envio de anexo);
+- Envio de um novo anexo pelo aluno (em aulas avaliadas por envio de anexo);
+- Registro de uma nova mensagem no chat.
+
+!!! quote ""
+
+    ![](http://manual.sistemasiga.net/wp-content/uploads/2020/07/imagem_2023-09-12_114232241.png)
 
 ---
 

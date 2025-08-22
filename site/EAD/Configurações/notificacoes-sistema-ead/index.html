@@ -17,7 +17,7 @@
         <link rel="next" href="../permissao-acesso-ead/">
       
       
-      <link rel="icon" href="../../../assets/images/favicon.png">
+      <link rel="icon" href="../../../assets/favicon-siga.ico">
       <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.17">
     
     
@@ -55,7 +55,16 @@
     
     
     
-  </head>
+   <link href="../../../assets/stylesheets/glightbox.min.css" rel="stylesheet"/><style>
+    html.glightbox-open { overflow: initial; height: 100%; }
+    .gslide-title { margin-top: 0px; user-select: text; }
+    .gslide-desc { color: #666; user-select: text; }
+    .gslide-image img { background: white; }
+    .gscrollbar-fixer { padding-right: 15px; }
+    .gdesc-inner { font-size: 0.75rem; }
+    body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color);}
+    body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color);}
+    body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color);}</style> <script src="../../../assets/javascripts/glightbox.min.js"></script></head>
   
   
     
@@ -634,6 +643,15 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#4-outras-configuracoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      4. Outras configurações
+    </span>
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -1003,6 +1021,15 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#4-outras-configuracoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      4. Outras configurações
+    </span>
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -1022,7 +1049,7 @@
 <h1 id="notificacoes-de-conclusao">Notificações de conclusão</h1>
 <details class="abstract">
 <summary>Clique aqui e assista o vídeo</summary>
-<p><iframe allow="autoplay; fullscreen" allowfullscreen="" frameborder="0" height="300" src="https://player.vimeo.com/video/663452654?h=8243f85cd8" width="640"></iframe></p>
+<p><iframe loading="lazy" allow="autoplay; fullscreen" allowfullscreen="" frameborder="0" height="300" src="https://player.vimeo.com/video/663456716?h=ec32df1ec3" width="640"></iframe></p>
 </details>
 <h2 id="configurando-notificacoes-por-e-mail-para-conclusao-de-curso-ead"><strong>Configurando Notificações por E-mail para Conclusão de Curso EAD</strong></h2>
 <p>Este documento detalha o procedimento para configurar o envio automático de notificações por e-mail sempre que um aluno concluir um curso na modalidade EAD. Esta funcionalidade é útil para alertar a equipe administrativa ou pedagógica sobre a necessidade de realizar ações subsequentes, como a emissão de históricos ou a preparação de documentos.</p>
@@ -1066,6 +1093,20 @@
 <li>O sistema listará todos os alunos que foram aprovados no curso dentro do período especificado.</li>
 </ol>
 <p>Este método é útil para auditorias e para gerar listas consolidadas de concluintes (mensais, semanais, etc.).</p>
+<h2 id="4-outras-configuracoes">4. Outras configurações</h2>
+<p>Também é possível configurar um texto personalizado que será enviado ao aluno, conforme ilustrado na imagem abaixo.</p>
+<div class="admonition quote">
+<p><a class="glightbox" href="http://manual.sistemasiga.net/wp-content/uploads/2020/07/4-29-01-2021-21_01_54-ESCOLA-EDUCAR-_-SIGA-SISTEMA-DE-GESTÃO-ACADÊMICA.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="http://manual.sistemasiga.net/wp-content/uploads/2020/07/4-29-01-2021-21_01_54-ESCOLA-EDUCAR-_-SIGA-SISTEMA-DE-GESTÃO-ACADÊMICA.png" /></a></p>
+</div>
+<p>É possível configurar o envio automático de notificações por e-mail para tutores, coordenadores e alunos nos seguintes casos:</p>
+<ul>
+<li>Alteração na situação de um anexo (em aulas avaliadas por envio de anexo);</li>
+<li>Envio de um novo anexo pelo aluno (em aulas avaliadas por envio de anexo);</li>
+<li>Registro de uma nova mensagem no chat.</li>
+</ul>
+<div class="admonition quote">
+<p><a class="glightbox" href="http://manual.sistemasiga.net/wp-content/uploads/2020/07/imagem_2023-09-12_114232241.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="" src="http://manual.sistemasiga.net/wp-content/uploads/2020/07/imagem_2023-09-12_114232241.png" /></a></p>
+</div>
 <hr />
 <p><em>Para dúvidas adicionais, entre em contato com o suporte do sistema.</em></p>
 
@@ -1122,5 +1163,7 @@
       <script src="../../../assets/javascripts/bundle.92b07e13.min.js"></script>
       
     
-  </body>
+  <script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(() => { lightbox.reload() });
+</script></body>
 </html>
